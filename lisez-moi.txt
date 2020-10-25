@@ -1,0 +1,11 @@
+#####################################################
+# Fête du jour par NicoFr38 pour Xoops
+# Version 1
+#
+# Merci de laisser ce copyright en place...
+#####################################################
++ installation : 
+- décompressez les fichiers et répertoires dans le répertoire modules de Xoops.
+- installez le module par le panneau de configuration de xoops
+- modifier eventuelement le prefix de vos tables dans le fichier sql\fetes.sql
+- importez ce fichier via phpmyadmin dans votre table
